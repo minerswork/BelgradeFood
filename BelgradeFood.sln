@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelgradeFood", "BelgradeFoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelgradeFood.Core", "BelgradeFood.Core\BelgradeFood.Core.csproj", "{61532A33-99F3-467D-B7E1-9662BD11D0DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelgradeFood.Data", "BelgradeFood.Data\BelgradeFood.Data.csproj", "{B45B5648-596C-421C-AF0E-2E5588AF2BA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{61532A33-99F3-467D-B7E1-9662BD11D0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61532A33-99F3-467D-B7E1-9662BD11D0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61532A33-99F3-467D-B7E1-9662BD11D0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45B5648-596C-421C-AF0E-2E5588AF2BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45B5648-596C-421C-AF0E-2E5588AF2BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45B5648-596C-421C-AF0E-2E5588AF2BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45B5648-596C-421C-AF0E-2E5588AF2BA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
